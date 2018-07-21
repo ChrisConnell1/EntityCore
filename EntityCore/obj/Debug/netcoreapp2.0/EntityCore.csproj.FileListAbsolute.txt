@@ -1,0 +1,11 @@
+C:\Users\conne\source\repos\EntityCore\EntityCore\bin\Debug\netcoreapp2.0\EntityCore.deps.json
+C:\Users\conne\source\repos\EntityCore\EntityCore\bin\Debug\netcoreapp2.0\EntityCore.runtimeconfig.json
+C:\Users\conne\source\repos\EntityCore\EntityCore\bin\Debug\netcoreapp2.0\EntityCore.runtimeconfig.dev.json
+C:\Users\conne\source\repos\EntityCore\EntityCore\bin\Debug\netcoreapp2.0\EntityCore.dll
+C:\Users\conne\source\repos\EntityCore\EntityCore\obj\Debug\netcoreapp2.0\EntityCore.csprojResolveAssemblyReference.cache
+C:\Users\conne\source\repos\EntityCore\EntityCore\obj\Debug\netcoreapp2.0\EntityCore.csproj.CoreCompileInputs.cache
+C:\Users\conne\source\repos\EntityCore\EntityCore\obj\Debug\netcoreapp2.0\EntityCore.AssemblyInfoInputs.cache
+C:\Users\conne\source\repos\EntityCore\EntityCore\obj\Debug\netcoreapp2.0\EntityCore.AssemblyInfo.cs
+C:\Users\conne\source\repos\EntityCore\EntityCore\bin\Debug\netcoreapp2.0\EntityCore.pdb
+C:\Users\conne\source\repos\EntityCore\EntityCore\obj\Debug\netcoreapp2.0\EntityCore.dll
+C:\Users\conne\source\repos\EntityCore\EntityCore\obj\Debug\netcoreapp2.0\EntityCore.pdb
